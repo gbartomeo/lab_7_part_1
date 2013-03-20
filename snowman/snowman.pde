@@ -16,4 +16,5 @@ void draw(){
   ellipse(x+10,y+15,5,5);
   ellipse(x-10,y+15,5,5);
   ellipse(x,y+35,20,5);
+  y-=speed;
 }
