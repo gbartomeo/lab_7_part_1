@@ -1,4 +1,4 @@
-int x=250, y=250;
+int x=250, y=250, speed = 1;
 
 void setup(){
 size(500,500);
