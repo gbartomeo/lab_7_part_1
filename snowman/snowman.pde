@@ -2,10 +2,10 @@ int x=250, y=250;
 
 void setup(){
 size(500,500);
-background(122,165,232);
 }
 
 void draw(){
+  background(122,165,232);
   smooth(8);
   noStroke();
   fill(255,255,255);
