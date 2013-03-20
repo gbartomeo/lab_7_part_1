@@ -9,5 +9,5 @@ void draw(){
   noStroke();
   fill(255,255,255);
   ellipse(x,y+150,100,100);
-  ellipse(x,y+100,75,75);
+  ellipse(x,y+75,75,75);
 }
